@@ -1,8 +1,7 @@
-dbt-bigquery
-dbt-core
+dbt-bigquery==1.10.3
+dbt-core==1.11.7
 sqlfluff==2.3.5
 fire==0.5.0
 google-cloud-storage==2.11.0
-dbt-dry-run==0.6.8
 shandy-sqlfmt[jijnafmt]==0.21.0
 sqlfluff-templater-dbt==2.3.5
